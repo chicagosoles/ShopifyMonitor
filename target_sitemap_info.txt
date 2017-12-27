@@ -1,0 +1,18 @@
+https://www.target.com/c/sitemap_001.xml.gz = categories
+
+main sitemap index = https://www.target.com/sitemap_index.xml.gz
+
+store list = https://www.target.com/sl/sitemap_001.xml.gz
+
+another version of categories = https://www.target.com/fc/sitemap_001.xml.gz
+
+search index = https://www.target.com/s/sitemap_001.xml.gz
+
+
+
+WALMART
+
+store list = https://www.walmart.com/sitemap_store_main.xml
+
+categories = https://www.walmart.com/sitemap_cp_https.xml
+
